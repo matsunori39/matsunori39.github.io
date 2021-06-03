@@ -12,6 +12,9 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 # Works
 - [GitHub](https://github.com/matsunori39)
 
+# Contact
+- [Mail: matsunori39@gmail.com](mailto:matsunori39@gmail.com)
+
 ## Profile  
 - 名前: matsunori39
 - 所在地: 東京都江戸川区
