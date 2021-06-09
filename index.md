@@ -19,3 +19,9 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 - 名前: matsunori39
 - 所在地: 東京都江戸川区
 - 得意領域: Python, 簡単なWeb開発、ザーバーサイドプログラミング
+
+# History
+- 2021年 [就労移行支援事業所 チームシャイニー](https://team-shiny.org/) 入所
+- 2020年 日昭電気株式会社 退職
+- 2014年 [日昭電気株式会社](https://www.nisshoelec.co.jp/) 入社
+- 2014年 芝浦工業大学 工学部 電気工学科 学科3位 卒業
