@@ -1,5 +1,5 @@
 # About  
-現在、就労移行支援事業所に通所中の29歳男性です。  
+現在、就労移行支援事業所に通所中の30歳男性です。  
 JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができます。データサイエンティスト志望です。  
 
 # Skills
@@ -7,7 +7,7 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 - Languages: HTML, CSS, JavaScript, Python
 - Engine,Frameworks: Node.js
 - Tool,MiddleWare: Git, PostgreSQL
-- 資格、免許: ITパスポート, 実用英語技能検定2級
+- 資格、免許: ITパスポート, 実用英語技能検定2級, GCI(東京大学グローバル消費インテリジェンス寄附講座) 2021 Summer 修了
 
 # Works
 - [GitHub](https://github.com/matsunori39)
