@@ -1,5 +1,5 @@
 # About  
-現在、就労移行支援事業所に通所中の30歳男性です。  
+現在、就労移行支援事業所に通所しAI・機械学習の学習をしている30歳男性です。  
 JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができます。データサイエンティスト志望です。  
 
 # Skills
@@ -18,7 +18,7 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 ## Profile  
 - 名前: matsunori39
 - 所在地: 東京都江戸川区
-- 得意領域: Python, 簡単なWeb開発、ザーバーサイドプログラミング
+- 得意領域: Python, 簡単なWeb開発、ザーバーサイドプログラミング、機械学習
 
 # History
 - 2021年 [就労移行支援事業所 チームシャイニー](https://team-shiny.org/) 入所
