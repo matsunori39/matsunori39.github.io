@@ -6,11 +6,12 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 - OS: Windows,Ubuntu
 - Languages: HTML, CSS, JavaScript, Python
 - Engine,Frameworks: Node.js
-- Tool,MiddleWare: Git, PostgreSQL
+- Tool,MiddleWare: Git, PostgreSQL, Docker
 - 資格、免許: ITパスポート, 実用英語技能検定2級, GCI(東京大学グローバル消費インテリジェンス寄附講座) 2021 Summer 修了, TOEIC L&R IP 760 (2021/08)
 
 # Works
 - [GitHub](https://github.com/matsunori39)
+- [Gradio-Demo(ImageClassifcation)](https://huggingface.co/spaces/matsunori39/gradio-demo)
 
 # Contact
 - [Mail: matsunori39@gmail.com](mailto:matsunori39@gmail.com)
