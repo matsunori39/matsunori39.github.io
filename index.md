@@ -7,7 +7,7 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 - Languages: HTML, CSS, JavaScript, Python
 - Engine,Frameworks: Node.js
 - Tool,MiddleWare: Git, PostgreSQL, Docker
-- 資格、免許: ITパスポート, 実用英語技能検定2級, GCI(東京大学グローバル消費インテリジェンス寄附講座) 2021 Summer 修了, TOEIC L&R IP 760 (2021/08)
+- 資格、免許: ITパスポート, 実用英語技能検定2級, GCI(東京大学グローバル消費インテリジェンス寄附講座) 2021 Summer 修了, 東京大学 集中講義 画像認識 2022年 春 修了, TOEIC L&R 700 (2022/02)
 
 # Works
 - [GitHub](https://github.com/matsunori39)
