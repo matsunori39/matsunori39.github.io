@@ -1,13 +1,13 @@
 # About  
-現在、就労移行支援事業所に通所しAI・機械学習の勉強をしている30歳男性です。  
-JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができます。データサイエンティスト志望です。  
+現在、就労移行支援事業所に通所しAI・機械学習の勉強をしている31歳男性です。  
+JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができます。ITエンジニア志望です。  
 
 # Skills
 - OS: Windows,Ubuntu
 - Languages: HTML, CSS, JavaScript, Python
 - Engine,Frameworks: Node.js
 - Tool,MiddleWare: Git, PostgreSQL, Docker
-- 資格、免許: ITパスポート, 実用英語技能検定2級, GCI(東京大学グローバル消費インテリジェンス寄附講座) 2021 Summer 修了, 東京大学 集中講義 画像認識 2022年 春 修了, TOEIC L&R 700 (2022/02)
+- 資格、免許: ITパスポート, 実用英語技能検定2級, GCI(東京大学グローバル消費インテリジェンス寄附講座) 2021 Summer 修了, 東京大学 集中講義 画像認識 2022年 春 修了, 統計検定2級, TOEIC L&R 745 (2022/10)
 
 # Works
 - [GitHub](https://github.com/matsunori39)
@@ -22,6 +22,7 @@ JavaScript, Python, Git, Herokuへのデプロイ等の基本的な事ができ�
 - 得意領域: Python, 簡単なWeb開発、ザーバーサイドプログラミング、機械学習
 
 # History
+- 2022年 [東京都ソーシャルファーム認定　シャイニーラボ](https://shiny-lab.org/) 入社
 - 2021年 [就労移行支援事業所 チームシャイニー](https://team-shiny.org/) 入所
 - 2020年 日昭電気株式会社 退職
 - 2014年 [日昭電気株式会社](https://www.nisshoelec.co.jp/) 入社
